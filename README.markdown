@@ -85,19 +85,12 @@ EXEC operations.sp_UpdateShipmentStatus
 ## Project Structure
 
 ```
-/TransGlobalLogisticsDB
-│
-├── Phase 2 - Foundation
-│   ├── 01_Create_Database_and_Schemas.sql
-│   ├── 02_Create_Tables.sql
-│   ├── 03_Insert_Sample_Data.sql
-│   └── 04_Analysis_Queries.sql
-│
-└── Phase 3 - Advanced Features
-    └── Stored_Procedures/
-        ├── sp_CreateNewShipment.sql
-        ├── sp_AssignVehicleToShipment.sql
-        └── sp_UpdateShipmentStatus.sql
+/Transport-Global-Logistics-DB
+├── README.markdown
+├── SQLQueries.sql
+├── Screenshot1.png
+├── Screenshot2.png
+└── Transport-Global-Logistics-ERD.drawio
 ```
 
 ---
