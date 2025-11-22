@@ -7,7 +7,7 @@
 
 This is a **full-featured SQL Server database project** I built from scratch to practice and showcase real-world database design, T-SQL scripting, relationships, constraints, stored procedures, and production-ready patterns.
 
-The fictional company — **TransGlobal Logistics** — manages customers, warehouses, vehicles, drivers, routes, shipments, and cargo worldwide.
+The fictional company — **Transport Global Logistics** — manages customers, warehouses, vehicles, drivers, routes, shipments, and cargo worldwide.
 
 ---
 
